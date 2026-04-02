@@ -82,8 +82,29 @@ streamlit run streamlit_app.py
 -  **Overfitting vs underfitting**
 
 ---
+## 📸 Application Screenshots
 
-## Demo Snaps
+### PlacePrep UI
+![Dashboard](https://github.com/rtanvi1604/PlacePrep/blob/main/PlacePrep_UI.png)
+
+### Mock Interview Mode
+![Mock](https://github.com/rtanvi1604/PlacePrep/blob/main/Mock_Mode_1.png)
+
+### Coach Guide Mode
+![Guide1](https://github.com/rtanvi1604/PlacePrep/blob/main/Guide_Mode_1.png)
+- Filtered by the topic of HR & Behavioral
+
+![Guide2](https://github.com/rtanvi1604/PlacePrep/blob/main/Guide_Mode_2.png)
+- Gives overall description of the query asked
+
+### Evaluate Mode
+![Evaluate1](https://github.com/rtanvi1604/PlacePrep/blob/main/Evaluate_Mode_1.png)
+- Gives score for for your answer, spots your Strengths and Weakness in the asnwer too
+
+![Evaluate2](https://github.com/rtanvi1604/PlacePrep/blob/main/Evaluate_Mode_2.png)
+
+![Evaluate3](https://github.com/rtanvi1604/PlacePrep/blob/main/Evaluate_Mode_3.png)
+- This was the question asked and the candidate's answer
 
 ---
 
